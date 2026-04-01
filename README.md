@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Rian
+# 👋 Opa, meu nome é Rian Silva
 
 💻 Desenvolvedor Backend focado em **Java**.
 
