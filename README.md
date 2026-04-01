@@ -7,7 +7,7 @@
 ## Sobre mim
 
 * 👨‍💻 Estagiário na Vivo
-* 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+* 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC-ZS
 * 🎯 Foco em backend
 
 ---
@@ -55,12 +55,6 @@
 
 * Organização de código e arquitetura modular
 * Versionamento limpo
-
----
-
-## Objetivo
-
-Evoluir como desenvolvedor backend, com foco em construção de sistemas bem estruturados, escaláveis e de fácil manutenção.
 
 ---
 
