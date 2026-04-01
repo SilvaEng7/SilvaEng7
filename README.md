@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Rian
 
-<!--
-**SilvaEng7/SilvaEng7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend focado em **Java**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+* 👨‍💻 Estagiário na Vivo
+* 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+* 🎯 Foco em backend
+
+---
+
+## Stack atual
+
+* Java 17+
+* Spring Boot 3
+* Maven
+* Camunda 7
+
+---
+
+## Experiência
+
+* Desenvolvimento backend com Java e Spring Boot
+* Uso do Camunda 7 para automação de processos (BPMN 2.0)
+* Versionamento de banco com Flyway
+
+---
+
+## Tecnologias
+
+**Backend**
+
+* Java
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+
+**Workflows**
+
+* Engine Camunda 7
+
+**Banco de dados**
+
+* PostgreSQL
+* MySQL
+* SQLite
+* H2
+  
+---
+
+## Práticas
+
+* Organização de código e arquitetura modular
+* Versionamento limpo
+
+---
+
+## Objetivo
+
+Evoluir como desenvolvedor backend, com foco em construção de sistemas bem estruturados, escaláveis e de fácil manutenção.
+
+---
+
+## Contato
+
+* LinkedIn: https://www.linkedin.com/in/rian-silva-383241379/
