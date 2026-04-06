@@ -1,60 +1,19 @@
-# 👋 Opa, meu nome é Rian Silva
+# Opa, meu nome é Rian Silva
 
-💻 Desenvolvedor Backend focado em **Java**.
+Desenvolvedor Backend focado em **Java**.
 
----
-
-## Sobre mim
-
-* 👨‍💻 Estagiário na Vivo
-* 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC-ZS
-* 🎯 Foco em backend
+* Estagiário na Vivo
+* Estudante de Análise e Desenvolvimento de Sistemas na FATEC-ZS
 
 ---
 
-## Stack atual
-
-* Java 17+
-* Spring Boot 3
-* Maven
-* Camunda 7
-
----
-
-## Experiência
-
-* Desenvolvimento backend com Java e Spring Boot
-* Uso do Camunda 7 para automação de processos (BPMN 2.0)
-* Versionamento de banco com Flyway
-
----
-
-## Tecnologias
-
-**Backend**
-
-* Java
-* Spring Boot
-* Spring Security
-* Spring Data JPA
-
-**Workflows**
-
-* Engine Camunda 7
-
-**Banco de dados**
-
-* PostgreSQL
-* MySQL
-* SQLite
-* H2
-  
----
-
-## Práticas
-
-* Organização de código e arquitetura modular
-* Versionamento limpo
+<div align="left">
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg
+  https://upload.wikimedia.org/wikipedia/commons/3/3b/2025_Logo_Camunda_Black.png
+</div>
 
 ---
 
