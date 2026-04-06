@@ -15,8 +15,7 @@ Desenvolvedor Backend focado em **Java**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/camunda/camunda-docs/main/img/camunda-logo.png" width="40" />
-  <img src="https://github.com/user-attachments/assets/a71a2dfc-9771-425c-b2c8-6513f99a2e7c" width="40" style="background-color: white; border-radius: 4px; padding: 2px;" />
+  <img src="https://github.com/user-attachments/assets/a71a2dfc-9771-425c-b2c8-6513f99a2e7c" width="100" style="background-color: white; border-radius: 4px; padding: 5px; vertical-align: middle;" />
 </div>
 
 
