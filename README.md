@@ -16,6 +16,7 @@ Desenvolvedor Backend focado em **Java**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/2025_Logo_Camunda_Black.png" width="40" />
 </div>
+
 ---
 
 ## Contato
